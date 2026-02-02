@@ -1,5 +1,5 @@
-https://pengenalandiri-teknogis.pages.dev/
+cloudflare : https://pengenalandiri-teknogis.pages.dev/
 
-https://prismatic-parfait-96abc3.netlify.app/
+netfly : https://prismatic-parfait-96abc3.netlify.app/
 
-https://pengenalan-teknogis.web.app/
+firebase : https://pengenalan-teknogis.web.app/
