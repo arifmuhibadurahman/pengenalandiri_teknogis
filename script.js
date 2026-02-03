@@ -44,7 +44,8 @@ const portfolioData = [
             { name: "Geopandas", desc: "Library pemrograman data geospasial.", img: "assets/geopandas.svg" },
             { name: "Trimble", desc: "Pengolahan data GNSS", img: "assets/trimble.svg" },
             { name: "Surfer", desc: "software gridding + surface modeling.", img: "assets/surfer.svg" },
-           
+            { name: "Dji Pilot", desc: "Software Pembuatan waypoint.", img: "assets/djipilot.svg" },
+
         ]
     },
     {
